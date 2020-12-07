@@ -1,2 +1,2 @@
 *.docx linguist-language=csharp
-*.docx linguist-language=Neo4j-OGM
+*.docx linguist-language=cypher
